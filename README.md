@@ -21,19 +21,17 @@ Methodology: VAR, Granger Causality, ADF Test, AIC/BIC/HQIC, and Robustness Chec
 
 Key Words: Financial Econometrics, Causal Inference, On-Chain Forensics, Model Validation, Crypto Transaction Data Science.
 
-Skills： Data Transformation/Merging/Alignment, Data Visualization, Time-Series/Statistical Modeling, On-Chain Forensics.
-
 ---
 
 ## Keywords & Technical Skills
 
-**Econometric Methods:** Granger Causality · Vector Autoregression (VAR) · Orthogonalized Impulse Response Functions (OIRF) · ADF Unit Root Test · ARCH-LM Heteroskedasticity Test · CUSUM Structural Break Test · AIC / BIC / FPE / HQIC Lag Selection · Log Returns · Stationarity Testing
+**Financial Econometrics:** Causal Inference · Granger Causality · Vector Autoregression (VAR) · Impulse Response Functions (IRF) · ARCH-LM Heteroskedasticity Test · CUSUM Structural Break Test · AIC / BIC / FPE / HQIC Lag Selection · Stationarity Testing (ADF Unit Root)
 
-**Data Engineering:** Transaction-Level Big Data Processing · Mixed-Frequency Data Merging · Temporal Aggregation (Tick → Daily) · On-Chain Entity Classification · Graph-Based Wallet Fingerprinting · Quantile Threshold Design
+**Data Engineering:** Transaction-Level Big Data Science · Mixed-Frequency Data Merging · Temporal Aggregation (Tick → Daily) · Graph-Based Wallet Fingerprinting · Quantile Threshold Design
 
-**Financial Domain:** Cryptocurrency Market Microstructure · Stablecoin Issuance Mechanics · Whale Flow Tracking · Exchange Hot Wallet Detection · Market Manipulation Hypothesis Testing · Lead-Lag Relationship Analysis
+**Financial Domain:** Cryptocurrency Market Microstructure · Market Manipulation Hypothesis Testing · On-Chain Forensics
 
-**Tools & Libraries:** Python · Pandas · NumPy · Statsmodels · Matplotlib · Google Colab
+**Tools & Libraries:** Python (Pandas · NumPy · Statsmodels · Matplotlib) · Google Colab
 
 ---
 
