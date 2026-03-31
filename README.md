@@ -44,7 +44,7 @@ Key Findings: Highlight the null result and the need for intraday frequency data
 
 Three transaction types are present in the raw data: `Simple Send` (567,023), `Grant Property Tokens` (issuance, 11 events), and `Revoke Property Tokens` (burn, 1 event). This granularity allows us to distinguish between Tether minting, burning, and regular P2P transfers — a critical distinction for testing the manipulation hypothesis.
 
-> ⚠️ **Data Note:**Please unzip Tether_Q1_2018.zip in the same directory before running the notebook.**
+> ⚠️ **Data Note: **Please unzip Tether_Q1_2018.csv.zip in the same directory before running the notebook.**
 
 ---
 
