@@ -13,6 +13,12 @@ This project investigates whether **Tether (USDT) transaction volume causally in
 
 The broader research question connects to systemic risk in digital asset markets: *if a stablecoin issuer can print money and deploy it strategically, does that create measurable price pressure on BTC?* This project provides a reproducible, statistically grounded answer using on-chain data.
 
+Project Goal: Investigating the causal relationship between USDT and BTC in Q1 2018.
+
+Methodology: VAR, Granger Causality, ADF Test, AIC/BIC/HQIC, and Robustness Checks (ARCH-LM, CUSUM).
+
+Key Findings: Highlight the null result and the need for intraday frequency data.
+
 ---
 
 ## Keywords & Technical Skills
