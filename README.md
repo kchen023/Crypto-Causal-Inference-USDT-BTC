@@ -9,7 +9,9 @@
 
 ## Overview
 
-This project investigates whether **Tether (USDT) transaction volume causally influences Bitcoin (BTC) price movements**, using transaction-level blockchain data for Q1 2018. The analysis applies a rigorous financial econometrics pipeline — from raw big-data ingestion and entity detection, through stationarity and causality testing, to impulse response simulation and model validation — to empirically test a widely debated hypothesis in cryptocurrency research.
+Please find Python codes and outputs in Codes and Outputs.ipynb.
+
+This project investigates whether **Tether (USDT) transaction volume causally influences Bitcoin (BTC) price movements**, using transaction-level blockchain data for Q1 2018. The analysis applies a rigorous financial econometrics pipeline, from raw big-data ingestion and entity detection, through stationarity and causality testing, to impulse response simulation and model validation, to empirically test a widely debated hypothesis in cryptocurrency research.
 
 The broader research question connects to systemic risk in digital asset markets: *if a stablecoin issuer can print money and deploy it strategically, does that create measurable price pressure on BTC?* This project provides a reproducible, statistically grounded answer using on-chain data.
 
@@ -17,7 +19,9 @@ Project Goal: Investigating the causal relationship between USDT and BTC in Q1 2
 
 Methodology: VAR, Granger Causality, ADF Test, AIC/BIC/HQIC, and Robustness Checks (ARCH-LM, CUSUM).
 
-Key Findings: Highlight the null result and the need for intraday frequency data.
+Key Words: Financial Econometrics, Causal Inference, On-Chain Forensics, Model Validation, Crypto Transaction Data Science.
+
+Skills： Data Transformation/Merging/Alignment, Data Visualization, Time-Series/Statistical Modeling, On-Chain Forensics.
 
 ---
 
