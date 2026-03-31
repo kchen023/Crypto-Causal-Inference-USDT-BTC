@@ -9,9 +9,9 @@
 
 ## Overview
 
-Please find Python codes and outputs in Codes and Outputs.ipynb.
+Please find Python codes and outputs in *Codes and Outputs.ipynb*.
 
-This project investigates whether **Tether (USDT) transaction volume causally influences Bitcoin (BTC) price movements**, using transaction-level blockchain data for Q1 2018. The analysis applies a rigorous financial econometrics pipeline, from raw big-data ingestion and entity detection, through stationarity and causality testing, to impulse response simulation and model validation, to empirically test a widely debated hypothesis in cryptocurrency research.
+This project investigates whether **Tether (USDT) transaction volume causally influences Bitcoin (BTC) price movements and identify address of exchange and treasury based on on-chain forensics**, using transaction-level blockchain data for Q1 2018. The analysis applies a end-to-end financial econometrics pipeline, from raw big-data ingestion and entity detection, through stationarity and causality testing, to impulse response simulation and model validation, to empirically test a widely debated hypothesis in cryptocurrency research.
 
 The broader research question connects to systemic risk in digital asset markets: *if a stablecoin issuer can print money and deploy it strategically, does that create measurable price pressure on BTC?* This project provides a reproducible, statistically grounded answer using on-chain data.
 
